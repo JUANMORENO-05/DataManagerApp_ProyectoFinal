@@ -1,0 +1,49 @@
+Título del proyecto:
+“DataManagerApp: Sistema educativo para la gestión y visualización de estructuras de datos”
+
+Enunciado del problema:
+En el aprendizaje de estructuras de datos, muchos estudiantes enfrentan dificultades para comprender cómo funcionan internamente las listas enlazadas, pilas y colas, especialmente en operaciones como inserción, eliminación o recorrido. Esto limita su capacidad de diseñar algoritmos eficientes y comprender el flujo de memoria dinámica.
+
+Solución propuesta:
+Desarrollar una aplicación de software interactiva llamada DataManagerApp, que permita crear, modificar y visualizar el funcionamiento interno de estructuras de datos lineales (listas simples, listas dobles, pilas y colas), así como aplicar algoritmos de búsqueda.
+El sistema ofrecerá una interfaz sencilla para insertar, eliminar y buscar elementos, mostrando los pasos del proceso en tiempo real, facilitando así la comprensión práctica de estos conceptos.
+
+
+Requerimientos Funcionales:
+
+El sistema debe permitir crear y gestionar estructuras estáticas, como arreglos o vectores, para almacenar datos de forma fija.
+
+El sistema debe permitir crear y gestionar estructuras dinámicas, como listas enlazadas, pilas y colas, donde los datos se almacenan de forma flexible.
+
+El sistema debe permitir insertar, eliminar y modificar elementos en estructuras estáticas (por índice o posición).
+
+El sistema debe permitir insertar y eliminar elementos en estructuras dinámicas (listas enlazadas, pilas, colas).
+
+El sistema debe mostrar visualmente la estructura (por ejemplo, los nodos de una lista o los elementos de una pila/cola).
+
+El sistema debe implementar algoritmos de ordenamiento (por ejemplo, burbuja o inserción) aplicados a estructuras estáticas y dinámicas.
+
+El sistema debe implementar algoritmos de búsqueda (lineal y binaria) sobre estructuras estáticas y dinámicas.
+
+El sistema debe permitir crear y manipular listas enlazadas simples y dobles, mostrando sus operaciones básicas (insertar, eliminar, recorrer).
+
+El sistema debe permitir crear y operar con pilas, implementando las funciones push y pop.
+
+El sistema debe permitir crear y operar con colas, implementando las funciones enqueue y dequeue.
+
+El sistema debe mostrar mensajes informativos sobre el resultado de cada operación (por ejemplo: “Elemento insertado correctamente” o “No se encontró el valor”).
+
+
+Requerimientos No Funcionales:
+
+Usabilidad: La interfaz o consola debe ser clara y comprensible para facilitar el aprendizaje de las estructuras.
+
+Rendimiento: Las operaciones de inserción, eliminación, búsqueda y ordenamiento deben ejecutarse eficientemente (menos de 2 segundos por operación).
+
+Mantenibilidad: El código fuente debe estar modularizado, con clases separadas para cada estructura (listas, pilas, colas).
+
+Portabilidad: El sistema debe ser ejecutable en distintos entornos (Windows, Linux o MacOS) sin modificaciones.
+
+Escalabilidad: Debe ser posible ampliar el sistema para incluir nuevas estructuras o algoritmos sin afectar las funciones existentes.
+
+Documentación: El código debe incluir comentarios explicativos y un archivo README con instrucciones de uso.
