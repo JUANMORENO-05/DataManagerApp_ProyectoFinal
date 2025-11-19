@@ -47,3 +47,71 @@ Portabilidad: El sistema debe ser ejecutable en distintos entornos (Windows, Lin
 Escalabilidad: Debe ser posible ampliar el sistema para incluir nuevas estructuras o algoritmos sin afectar las funciones existentes.
 
 Documentación: El código debe incluir comentarios explicativos y un archivo README con instrucciones de uso.
+//Historias de usuario
+1. Crear estructuras estáticas
+
+Como estudiante,
+quiero crear arreglos o vectores dentro de la app,
+para practicar cómo funcionan las estructuras estáticas.
+
+2. Crear estructuras dinámicas
+
+Como estudiante,
+quiero crear listas enlazadas, pilas o colas,
+para entender cómo se comportan las estructuras dinámicas.
+
+3. Insertar, eliminar y modificar en estructuras estáticas
+
+Como usuario,
+quiero agregar, borrar o cambiar datos por índice,
+para ver cómo se manipulan los arreglos de forma correcta.
+
+4. Insertar y eliminar en estructuras dinámicas
+
+Como usuario,
+quiero hacer operaciones básicas como insertar o eliminar nodos,
+para comprender el proceso interno de las listas, pilas y colas.
+
+5. Visualización gráfica
+
+Como estudiante visual,
+quiero ver una representación gráfica de la estructura,
+para entender cómo cambian los nodos o elementos en cada operación.
+
+6. Ordenamiento
+
+Como usuario,
+quiero aplicar algoritmos de ordenamiento como burbuja o inserción,
+para ver cómo cambian los elementos paso a paso.
+
+7. Búsqueda
+
+Como estudiante,
+quiero usar búsqueda lineal o binaria,
+para identificar cómo se localizan elementos en las estructuras.
+
+8. Listas simples y dobles
+
+Como usuario,
+quiero manipular listas simples y dobles (insertar, eliminar, recorrer),
+para entender la diferencia entre una y otra.
+
+9. Operaciones de una pila
+
+Como estudiante,
+quiero usar push y pop,
+para comprender el funcionamiento LIFO de una pila.
+
+10. Operaciones de una cola
+
+Como usuario,
+quiero usar enqueue y dequeue,
+para entender cómo funciona una cola tipo FIFO.
+
+11. Notificaciones
+
+Como estudiante,
+quiero recibir mensajes como “Elemento insertado” o “Valor no encontrado”,
+para saber si la operación fue correcta o falló.
+
+
